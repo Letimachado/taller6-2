@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(122, 179, 245);
 }
 
 .image{
@@ -17,3 +17,16 @@ body {
     border-radius: 10px;
     box-shadow: 2px 3px rgba(160, 20, 241, 0.664);
 }
+  
+
+h1{
+    text-align: center;
+    color:rgb(27, 27, 61);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
